@@ -15,19 +15,3 @@ Une petite application web pour ajouter, supprimer et suivre l'avancement de vos
 - DOM manipulation
 - LocalStorage
 
-## 🚀 Lancer le projet
-
-1. Cloner ce repo
-2. Ouvrir `index.html` dans le navigateur
-
-## 📸 Aperçu
-
-*(Ajoute une capture d’écran ici une fois terminé)*
-
-## 👤 Auteur
-
-Ton Prénom Nom — [LinkedIn](https://www.linkedin.com) — [Portfolio](https://)
-
-## 🔗 Démo en ligne
-
-> (à ajouter après déploiement sur [Netlify](https://netlify.com) ou [Vercel](https://vercel.com))
